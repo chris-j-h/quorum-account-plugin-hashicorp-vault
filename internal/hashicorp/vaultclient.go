@@ -10,8 +10,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/consensys/quorum-account-plugin-hashicorp-vault/internal/account"
-	"github.com/consensys/quorum-account-plugin-hashicorp-vault/internal/config"
+	"github.com/ConsenSys/quorum-account-plugin-hashicorp-vault/internal/account"
+	"github.com/ConsenSys/quorum-account-plugin-hashicorp-vault/internal/config"
 	"github.com/hashicorp/vault/api"
 )
 

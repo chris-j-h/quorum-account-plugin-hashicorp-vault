@@ -1,4 +1,4 @@
-module github.com/consensys/quorum-account-plugin-hashicorp-vault
+module github.com/ConsenSys/quorum-account-plugin-hashicorp-vault
 
 go 1.15
 

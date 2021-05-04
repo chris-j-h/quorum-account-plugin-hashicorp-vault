@@ -17,8 +17,8 @@ import (
 
 	"github.com/ConsenSys/quorum-account-plugin-hashicorp-vault/internal/account"
 	"github.com/ConsenSys/quorum-account-plugin-hashicorp-vault/internal/config"
+	"github.com/ConsenSys/quorum/crypto/secp256k1"
 	"github.com/hashicorp/vault/api"
-	"github.com/jpmorganchase/quorum/crypto/secp256k1"
 )
 
 func NewAccountManager(config config.VaultClient) (AccountManager, error) {

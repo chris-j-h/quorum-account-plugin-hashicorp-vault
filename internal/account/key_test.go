@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/jpmorganchase/quorum/crypto/secp256k1"
+	"github.com/ConsenSys/quorum/crypto/secp256k1"
 	"github.com/stretchr/testify/require"
 )
 

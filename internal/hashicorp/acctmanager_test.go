@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/ConsenSys/quorum-account-plugin-hashicorp-vault/internal/config"
-	"github.com/jpmorganchase/quorum/crypto/secp256k1"
+	"github.com/ConsenSys/quorum/crypto/secp256k1"
 	"github.com/stretchr/testify/require"
 )
 
